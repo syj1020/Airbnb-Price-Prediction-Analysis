@@ -1,1 +1,4 @@
 # Airbnb-Price-Prediction-Analysis
+
+### Over the past years, Airbnb became a preferred mode of stay for tourists, as a substitute for hotels. However, the pricing for properties on Airbnb depends on various parameters, and tourists always have a hard time finding their optimal Airbnb with a reasonable price. Investigating how certain features affect airbnb pricing would yield a two-fold benefit for both buyers and sellers in the market. For airbnb hosts, it helps them determine property pricing to generate additional revenue. For travelers, it answers the question of what features they should pay attention to find the optimally priced property. This project will explore the patterns in an Airbnb dataset to understand the implications of different factors that affect the individual airbnb price.
+
